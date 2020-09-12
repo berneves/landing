@@ -1,0 +1,29 @@
+.footer{
+  text-align:center;
+  padding: 60px;
+  background-color: #228B22;
+
+}
+
+.footer-links a {
+  text-decoration: none;
+  background-color: transparent;
+    color: white;
+    margin-top: 10px;
+    display: inline-block;
+    padding: 10px 30px;
+    font-weight: bold;
+    border-radius: 30px;
+    font-size: 40px;
+}
+
+.footer-links a:hover{
+  background-color: white;
+  color: red;
+}
+
+
+.footer-links p {
+  color: white;
+  font-size: 20px;
+}

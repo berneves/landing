@@ -1,0 +1,16 @@
+
+a {
+  text-decoration: none;
+  background-color: red;
+  color:white;
+  margin-top:10px;
+  display: inline-block;
+  padding: 10px 30px;
+  font-weight: bold;
+  border-radius: 30px;
+}
+a:hover{
+  background-color: purple;
+}
+
+/* Custom design below! */
